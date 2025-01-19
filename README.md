@@ -23,13 +23,17 @@ Our system employs specialized agents working collaboratively to deliver end-to-
 ## Project Objectives
 
 The primary goal of this project is to enhance the travel planning experience by automating complex decision-making processes through a multi-agent architecture. Each agent operates independently but contributes to a unified output, providing:
+
 •	Personalized recommendations
+
 •	Cost-effective travel options
+
 •	Enhanced user satisfaction
 
 ## Technical Stack
 
 •	Programming Language: Python
+
 •	Large Language Models (LLMs): Integrated AI models for natural language processing and decision-making.
 
 ## APIs and Libraries:
