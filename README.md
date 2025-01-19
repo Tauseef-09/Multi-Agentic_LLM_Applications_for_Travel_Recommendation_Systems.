@@ -35,8 +35,11 @@ The primary goal of this project is to enhance the travel planning experience by
 ## APIs and Libraries:
 
 •	Airline and flight search APIs
+
 •	Weather forecasting APIs
+
 •	Public transportation and map services.
+
 
 ![Alt text]( https://github.com/Tauseef-09/Multi-Agentic_LLM_Applications_for_Travel_Recommendation_Systems./blob/18d797e48137cf557150e45f8e03094e092ad21a/LLM_Image.png)![image](https://github.com/user-attachments/assets/0ef2d000-2a78-4a54-8908-46b46e15d352)
 
